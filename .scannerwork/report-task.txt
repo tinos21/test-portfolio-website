@@ -1,0 +1,6 @@
+projectKey=tino-dev-9999
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=tino-dev-9999
+ceTaskId=899e2898-7a6d-41fa-8a29-83d46fe9705d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=899e2898-7a6d-41fa-8a29-83d46fe9705d
